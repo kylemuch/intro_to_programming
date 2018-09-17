@@ -1,0 +1,2 @@
+This means that we opened a {} somewhere in the program and didn't close it.
+Most likely in a do/end or hash. 
